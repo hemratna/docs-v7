@@ -98,6 +98,7 @@
 | `0401` | `400` | Unknown Data Type |
 | `0402` | `422` | Field Type Missing Length |
 | `0403` | `422` | Field Type Do Not Support Length |
+| `0404` | `422` | Unable To Make Field Required When There Are Items In The Collection With No Value For That Field |
 
 ## Mail Error Codes
 
